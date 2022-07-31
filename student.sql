@@ -1,5 +1,5 @@
-drop database if exists DBIT236     ;
- 
+drop database if exists DBIT236       ;
+  
 
 create database DBIT236;
 USE DBIT236;
